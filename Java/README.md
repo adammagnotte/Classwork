@@ -1,3 +1,3 @@
-#Java Coursework
+# Java
+Collection of small projects from Java courses taken.
 
-  Collection of small projects and coursework used in Java Courses.
